@@ -295,7 +295,7 @@
              * HTML entity mapping for special characters.
              * @memberof TableExport.prototype
              */
-            entityMap: {"&": "&#38;", "<": "&#60;", ">": "&#62;", "'": '&#39;', "/": '&#47'},
+            entityMap: {"&": "&#38;", "<": "&#60;", ">": "&#62;", "'": '&#39;', "/": '&#47;'},
             /**
              * XLSX (Open XML spreadsheet) file extension configuration
              * @memberof TableExport.prototype
